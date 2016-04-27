@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461761018 source:/home/user/Dropbox/DS_FinalProject/final.cpp
+	"Dictionary.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<stdlib.h>
+
+1461760821 /home/user/Dropbox/DS_FinalProject/include/Dictionary.h
+	<iostream>
+	<string>
+
+1461736371 source:/home/user/Dropbox/DS_FinalProject/src/Dictionary.cpp
+	"Dictionary.h"
+
